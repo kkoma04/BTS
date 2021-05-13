@@ -1,6 +1,6 @@
 ## BTS 챗봇 예제
 
-dkssudgktpdy, BTS 챗봇을 간단히 만들어보는 실습입니다.
+안녕하세요, BTS 챗봇을 간단히 만들어보는 실습입니다.
 
 You can use the [editor on GitHub](https://github.com/kkoma04/BTS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
