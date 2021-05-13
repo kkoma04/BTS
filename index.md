@@ -9,6 +9,7 @@
 - 목차 2
 - 목차 3
 
+만든 사람 : 
 
 You can use the [editor on GitHub](https://github.com/kkoma04/BTS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
